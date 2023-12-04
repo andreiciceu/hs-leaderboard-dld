@@ -13,7 +13,7 @@ const MAX_RETRIES = 10;
 
 // Global variables
 let currentPage = 1;
-let totalPages = 10;
+let totalPages = 100;
 
 const fetchPage = async (page) => {
   const url = `${baseURL}?region=${region}&leaderboardId=${leaderboardId}&page=${page}&seasonId=${seasonId}`;
