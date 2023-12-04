@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "axios": "^1.6.2"
+  },
+  "scripts": {
+    "run": "node index.js"
+  },
+  "name": "hs-loaderboard-dld",
+  "version": "1.0.0",
+  "description": "Download all the heartsone leaderboard",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreiciceu/hs-leaderboard-dld.git"
+  },
+  "keywords": [
+    "heartstone",
+    "leaderboard",
+    "download"
+  ],
+  "author": "Andrei Ciceu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreiciceu/hs-leaderboard-dld/issues"
+  },
+  "homepage": "https://github.com/andreiciceu/hs-leaderboard-dld#readme"
+}
